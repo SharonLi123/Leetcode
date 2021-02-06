@@ -19,6 +19,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/二叉搜索树中的插入操作.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/二叉搜索树中的插入操作.java" />
+              <option name="questionId" value="784" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/二叉搜索树中的搜索.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/二叉搜索树中的搜索.java" />
+              <option name="questionId" value="783" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/删除二叉搜索树中的节点.java">
           <value>
             <LeetcodeEditor>
@@ -56,6 +72,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/相同的树.java" />
               <option name="questionId" value="100" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/验证二叉搜索树.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/验证二叉搜索树.java" />
+              <option name="questionId" value="98" />
             </LeetcodeEditor>
           </value>
         </entry>
