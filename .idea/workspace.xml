@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef85ff18-d312-4ce8-b8cd-6ca1b11aab03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/K个一组反转链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/回文链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/反转链表 II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/反转链表 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/二叉树展开为链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/填充每个节点的下一个右侧节点指针.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/翻转二叉树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,7 @@
       <workItem from="1612412438993" duration="2504000" />
       <workItem from="1612488149503" duration="6868000" />
       <workItem from="1612599510270" duration="6533000" />
-      <workItem from="1612668119502" duration="3167000" />
+      <workItem from="1612668119502" duration="4990000" />
     </task>
     <servers />
   </component>
