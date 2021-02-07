@@ -50,5 +50,8 @@ class Solution {
         head.next=tail;
         return last;
     }
+
+
+
 }
 //leetcode submit region end(Prohibit modification and deletion)
