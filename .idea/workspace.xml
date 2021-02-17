@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef85ff18-d312-4ce8-b8cd-6ca1b11aab03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/从中序与后序遍历序列构造二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/寻找重复的子树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/二叉搜索树中第K小的元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/二叉树的序列化与反序列化.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/扁平化嵌套列表迭代器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/把二叉搜索树转换为累加树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,12 +121,26 @@
       <workItem from="1612488149503" duration="6868000" />
       <workItem from="1612599510270" duration="6533000" />
       <workItem from="1612668119502" duration="6425000" />
-      <workItem from="1612752491880" duration="8887000" />
+      <workItem from="1612752491880" duration="9344000" />
+      <workItem from="1613463830614" duration="8475000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
