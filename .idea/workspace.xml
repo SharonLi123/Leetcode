@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef85ff18-d312-4ce8-b8cd-6ca1b11aab03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/二叉搜索树中第K小的元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/二叉树的序列化与反序列化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/扁平化嵌套列表迭代器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/把二叉搜索树转换为累加树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/Union-Find并查集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/二叉树的最近公共祖先.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/判定合法算式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/完全二叉树的节点个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/被围绕的区域.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +122,8 @@
       <workItem from="1612599510270" duration="6533000" />
       <workItem from="1612668119502" duration="6425000" />
       <workItem from="1612752491880" duration="9344000" />
-      <workItem from="1613463830614" duration="8475000" />
+      <workItem from="1613463830614" duration="8943000" />
+      <workItem from="1613610028075" duration="6555000" />
     </task>
     <servers />
   </component>
@@ -194,6 +195,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="282" key="com.intellij.ide.util.TipDialog/1440.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1612407635207" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1613611251163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-2560.-677.2560.1440@0.0.1440.900" timestamp="1613611251163" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
